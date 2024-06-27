@@ -1,0 +1,10 @@
+INSTRUCCIONES DE TESTEO DEL PROYECTO:
+
+1- En la carpeta Modelos_ya_entrenados se encuentran los 3 modelos mencionados en el paper, mas uno adicional 
+    cuyos resultados no superaron al mejor modelo, por lo que no se incluyo en el paper, pero se puede probar
+
+2- Para probar el modelo, debe copiar el ´model.py´ del modelo que desea, asi como tambien la carpeta ´trained_model´
+    en la carpeta 'Runner'
+
+3- IMPORTANTE: En caso de utilizar un dataset de imagenes, la carpeta 'test_dataset' debe tener a las imagenes en una carpeta
+    llamada 'data', y al archivo 'data.txt' fuera de esa carpeta 'data'
