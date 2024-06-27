@@ -1,4 +1,9 @@
 INSTRUCCIONES DE TESTEO DEL PROYECTO:
+0- LOS MODELOS YA ENTRENADOS SE ENCUENTRAN EN GOOGLE DRIVE: 
+
+https://drive.google.com/drive/folders/191S98c9kzsb21_Dve9zseohwBHRi0Pv6?usp=sharing
+
+(Github no permite archivos tan grandes)
 
 1- En la carpeta Modelos_ya_entrenados se encuentran los 3 modelos mencionados en el paper, mas uno adicional 
     cuyos resultados no superaron al mejor modelo, por lo que no se incluyo en el paper, pero se puede probar
